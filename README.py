@@ -1,6 +1,6 @@
 class PersonalInfo:
     def __init__(self):
-        self.username = "TotoHQ"
+        self.username = "0xToto"
         self.age = 18
         self.location = "France"
         self.gender = "Male"
