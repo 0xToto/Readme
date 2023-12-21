@@ -9,7 +9,7 @@ class Skills:
     def __init__(self):
         self.languages = ["Python","JavaScript","HTML","CSS","PHP"]
         self.databases = ["MariaDB", "MySQL", "MongoDB"]
-        self.speaking = ["English","French","Spanish","Italian","Portuguese"]
+        self.speaking = ["English","French","Spanish","Italian"]
 
 class OtherSkills:
     def __init__(self):
